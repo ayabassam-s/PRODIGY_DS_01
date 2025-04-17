@@ -51,3 +51,7 @@ During the Exploratory Data Analysis (EDA) process, I undertook the following st
 
 ![image](https://github.com/user-attachments/assets/b6e90d1d-36d4-4470-9791-6c40bdfbee05)
 
+
+**Top 10 Countries with Male and Female Populations in 2023**
+
+![image](https://github.com/user-attachments/assets/d5e2afa0-41dc-41b3-9944-295528438b75)
