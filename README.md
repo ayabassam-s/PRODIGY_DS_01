@@ -4,7 +4,7 @@
 # Prodigy InfoTech Data Science Internship Task 1
 ![image](https://github.com/user-attachments/assets/af14fd05-df4c-4277-8031-a485987fa289)
 
-I am pleased to present my first task as a Data Science Intern at Prodigy InfoTech. The task involved performing Exploratory Data Analysis (EDA) on the given dataset. This project involves the analysis and visualization of global population distribution, highlighting key trends and insights through the use of histograms, bar charts, and an interactive dashboard.
+I am pleased to present my first task as a Data Science Intern at Prodigy InfoTech. This project involves the analysis and visualization of global population distribution, highlighting key trends and insights through the use of histograms, bar charts, and an interactive dashboard.
 
 
 # Data 
